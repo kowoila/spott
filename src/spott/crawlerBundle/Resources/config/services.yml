@@ -1,0 +1,4 @@
+services:
+#    spottcrawler.example:
+#        class: spott\crawlerBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

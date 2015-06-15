@@ -1,0 +1,3 @@
+spottcrawler_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: spottcrawlerBundle:Default:index }

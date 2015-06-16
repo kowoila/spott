@@ -1,3 +1,7 @@
 spottcrawler_homepage:
     path:     /hello/{name}
     defaults: { _controller: spottcrawlerBundle:Default:index }
+
+spottcrawler_homepage:
+    path:     /crawl
+    defaults: { _controller: spottcrawlerBundle:Crawl:index }
